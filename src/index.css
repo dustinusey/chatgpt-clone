@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-orange {
+    background-color:  #f19d60;
+    transition: background .2s ease;
+}
+
+.bg-orange:hover {
+    background-color: #db884d;
+}
